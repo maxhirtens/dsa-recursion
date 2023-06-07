@@ -67,11 +67,6 @@ function gatherStrings(obj) {
   return stringArr;
 }
 
-/** binarySearch: given a sorted array of numbers, and a value,
- * return the index of that value (or -1 if val is not present). */
-
-function binarySearch(arr, val) {}
-
 module.exports = {
   product,
   longest,
